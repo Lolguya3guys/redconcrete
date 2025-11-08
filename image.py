@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>fun</title>
+  <style>
+    html,body {
+      margin:0;
+      height:100%;
+      background:#000;
+    }
+    img {
+      position:fixed;
+      inset:0;
+      width:100%;
+      height:100%;
+      object-fit:cover;
+    }
+  </style>
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <img src="https://i.imgur.com/Bl7qEBS.gif" alt="Fullscreen GIF">
+</body>
+</html>
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>fun</title>
+  <style>
+    html,body {
+      margin:0;
+      height:100%;
+      background:#000;
+    }
+    img {
+      position:fixed;
+      inset:0;
+      width:100%;
+      height:100%;
+      object-fit:cover;
+    }
+  </style>
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <img src="https://i.imgur.com/Bl7qEBS.gif" alt="Fullscreen GIF">
+</body>
+</html>
+
